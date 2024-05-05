@@ -46,7 +46,7 @@ The repository follows a specific folder structure:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/krushi-saathi.git
+git clone https://github.com/AaronANoronha-Pr/EPICS---KrushiSaathi
 ```
 
 2. Navigate to the project directory:
