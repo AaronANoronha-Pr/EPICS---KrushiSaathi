@@ -34,7 +34,7 @@ The Krushi Saathi project can be deployed locally on your machine for testing an
 The repository follows a specific folder structure:
 
 - `app.py`: Main Flask application file.
-- `disease.py`, `fertility.py`, `soil.py`: Flask blueprints for various services.
+- `disease.py`, `fertility.py`, `soil.py`, `price.py`, `fertilizer.py`,: Flask blueprints for various services.
 - `models/`: Contains trained machine learning models, transformers, and scalers.
 - `static/`: Directory for static files (CSS, JavaScript, images).
 - `templates/`: Directory for HTML templates.
